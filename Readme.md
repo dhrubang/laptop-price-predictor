@@ -1,1 +1,1 @@
-#Laptop price prediction streamlit app
+Laptop price prediction streamlit app
